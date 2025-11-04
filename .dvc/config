@@ -1,0 +1,8 @@
+[core]
+    autostage = true
+    remote = origin
+['remote "origin"']
+    url = s3://emmareysanchez/mlops-practica-icai-mi-proyecto.dvc
+    endpointurl = https://dagshub.com
+    region = us-east-1
+    use_ssl = true
